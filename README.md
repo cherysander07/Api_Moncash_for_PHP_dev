@@ -13,9 +13,9 @@ Once you have included the MoncashPay folder in your project, you can click on t
 
 To configure the API, open the configuration file and change the value of client secret and client id.
 
-change the $returnUrlBackHome value, you can put your index file.
+change the returnUrlBackHome value, you can put your index file.
 
-In your Moncash sandbox add this at the end of yourvalert Url : moncashPay/customReturnUrl.php.
+In your Moncash sandbox add this at the end of your alert Url : moncashPay/customReturnUrl.php.
 
 Copy the code from the productPage file into your own product file and be sure to replace the amount value and the identifier element value with your own information from your database.
 # Security
